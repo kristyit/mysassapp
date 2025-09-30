@@ -1,0 +1,19 @@
+{
+  "name": "my-sass-app",
+  "version": "1.0.0",
+  "private": true,
+   "homepage": "https://kristyit.github.io/mysassapp",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "sass": "^1.77.0",
+    "vite": "^5.0.0",
+    "gh-pages": "^6.1.0"
+  }
+}
+
+
